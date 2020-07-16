@@ -2,11 +2,11 @@
 
 My name is Vaneska Sousa, my pronouns are **she/her**. I have been studying software development since 2015 but I am currently focusing on developing myself in project management and tech community management. 
 
-:rocket: In 2017 until 2019 I created a tool to optimize the teaching and learning process through gamification with 4 other developers friends called [Escolarize](http://escolarize.com). I am very proud of this project and I want to contribute in what I can to improve education, especially for social minorities. :blue_heart: :purple_heart:
+:rocket: From 2017 to 2019 I created a tool called [Escolarize](http://escolarize.com) to optimize the teaching and learning process through gamification with 4 other developers friends. I am very proud of this project and I want to contribute in what I can to improve education, especially for social minorities. :blue_heart: :purple_heart:
 
 ### 🤔 Somethings about me
 - :office: I’m currently working on [@TotalCross](https://github.com/TotalCross) as leader of Product and Community team;
-- :school: I’m currently graduating in Systems and Digital Federal University of Ceara (Brazil);
+- :school: I’m currently graduating in Systems and Digital Midia on Federal University of Ceará (Brazil);
 - :books: I'm currently studying Python, Java, Desing Patterns and Product and Community manager;
 - 👯 I’m looking to collaborate with documentation and community events on Free and Open Source Projects.
 - 💬 If you are starting in the development area, you can count on my help
