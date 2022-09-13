@@ -2,12 +2,13 @@
 
 My name is Vaneska Sousa, my pronouns are **she/her**. I started as software developer inter in 2016 and currently **I'm I.T Project Manager at [Instituto Atlântico](https://www.atlantico.com.br/)**. 
 
-:rocket: From 2017 to 2019 I created a tool named Escolarize to optimize the teaching and learning process through gamification with 4 other developers friends. I am very proud of this project and I want to contribute in what I can to improve education, especially for social minorities. :blue_heart: :purple_heart: Unfortunately this work was shelved in 2019 and I hope to turn it into academic articles. So if you are also passionate about this issue, come together, maybe together we can contribute! 
+:rocket: From 2017 to 2019 I created a tool named Escolarize to optimize the teaching and learning process through gamification with 4 other developers friends. I am very proud of this project and I want to contribute in what I can to improve education, especially for social minorities. :blue_heart: :purple_heart: Unfortunately this work was shelved in 2019 and I hope to turn it into academic articles. 
+So if you are also passionate about this issue, come together, maybe we could learn a little bit more with each other! 
 
 ### 🤔 Somethings about me
-- :office: I’m currently working on [@Instituto-Atlantico](https://github.com/Instituto-Atlantico) as I.T Project Manager;
+- :office: Working on [@Instituto-Atlantico](https://github.com/Instituto-Atlantico) as I.T Project Manager;
 - :school: I’m currently graduating in Systems and Digital Midia on Federal University of Ceará (Brazil);
-- :books: I am currently studying to earn my [Professional Scrum Master I certification](https://www.scrum.org/professional-scrum-master-i-certification?gclid=Cj0KCQjwwNWKBhDAARIsAJ8HkheQoZPNbRQ66f5WdamElnygOKGjNYMFi19ao6O88fayTSLoaR647L8aAqrfEALw_wcB).
+- :books: Studying to earn my [Professional Scrum Master I certification](https://www.scrum.org/professional-scrum-master-i-certification?gclid=Cj0KCQjwwNWKBhDAARIsAJ8HkheQoZPNbRQ66f5WdamElnygOKGjNYMFi19ao6O88fayTSLoaR647L8aAqrfEALw_wcB).
 <!-- - 👯 I’m looking to collaborate with documentation and community events on Free and Open Source Projects.
 - 💬 If you are starting in the development or management area, you can count on my help 😙 -->
 
