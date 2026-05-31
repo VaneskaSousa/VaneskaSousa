@@ -6,7 +6,7 @@ My name is Vaneska Sousa, my pronouns are **she/her**. I started as software dev
 So if you are also passionate about this issue, come together, maybe we could learn a little bit more with each other! 
 
 ### 🤔 Somethings about me
-- :office: Working on [@Instituto-Atlantico](https://github.com/Instituto-Atlantico) as I.T Project Manager;
+- :office: Working on [@loomi](https://github.com/Loomi) as Product Owner;
 - :school: I’m currently graduating in Systems and Digital Midia on Federal University of Ceará (Brazil);
 - :books: Studying to earn my [Professional Scrum Master I certification](https://www.scrum.org/professional-scrum-master-i-certification?gclid=Cj0KCQjwwNWKBhDAARIsAJ8HkheQoZPNbRQ66f5WdamElnygOKGjNYMFi19ao6O88fayTSLoaR647L8aAqrfEALw_wcB).
 <!-- - 👯 I’m looking to collaborate with documentation and community events on Free and Open Source Projects.
