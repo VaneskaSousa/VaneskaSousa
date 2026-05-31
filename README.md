@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Vaneska Sousa, my pronouns are **she/her**. I started as software developer inter in 2016 and currently **I'm I.T Project Manager at [Instituto Atlântico](https://www.atlantico.com.br/)**. 
+My name is Vaneska Sousa, my pronouns are **she/her**. I started as software developer inter in 2016 and currently **I'm Product Owner at [Loomi](https://www.loomi.com.br/)**. 
 
 :rocket: From 2017 to 2019 I created a tool named Escolarize to optimize the teaching and learning process through gamification with 4 other developers friends. I am very proud of this project and I want to contribute in what I can to improve education, especially for social minorities. :blue_heart: :purple_heart: Unfortunately this work was shelved in 2019 and I hope to turn it into academic articles. 
 So if you are also passionate about this issue, come together, maybe we could learn a little bit more with each other! 
